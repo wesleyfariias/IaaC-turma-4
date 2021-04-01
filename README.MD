@@ -1,5 +1,5 @@
 # :rocket: Introdução
 # Objetivo 
 # Instalação
-# FAQ2
+# FAQ3
 # Tecnologia
